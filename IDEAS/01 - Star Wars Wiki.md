@@ -28,12 +28,12 @@ Store the data locally in the brower, without a registration for the users.
 - [ ] Detail page for a character
 - [ ] Store the user's favorites in the browser
 
-## Tools 🦾
+## Tools 🔨
 - [Star Wars API](https://swapi.dev/)
 
-## Layout 
+## Layout 🦾
 
 ![image](https://user-images.githubusercontent.com/2757486/163726351-bef802b6-b6c5-4697-9ad2-dd3d5c03da59.png)
 
-## Wireframe
+## Wireframe 📝
 https://wireframe.cc/h0mXU7
