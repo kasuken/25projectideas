@@ -2,7 +2,7 @@
 
 A website to quickly and easily create passwords with different levels of security.
 
-## Goal
+## Goal 🚀
 Create a one-page website without any registration or private area where the user can create a new secure password with a lot of security settings (lenght, special characters, prefix or suffix, ...).
 
 ---
@@ -23,16 +23,16 @@ The API is not free and requires a fee of 3.5$ each month.
 
 ---
 
-## Todo
+## Todo ✅
 - [ ] Create new app
 - [ ] 
 
-## Tools
+## Tools 🔨
 - [have i been pwned API](https://haveibeenpwned.com/API/Key)
 
-## Layout
+## Layout 🦾
 
 ![image](https://user-images.githubusercontent.com/2757486/163727738-be15c621-6182-48b9-b58a-207f5757657b.png)
 
-## Wireframe
+## Wireframe 📝
 https://wireframe.cc/poTjcX
