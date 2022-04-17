@@ -26,5 +26,5 @@ Enjoy the ideas and keep coding!
 
 # Ideas
 
-[01 - Star Wars Wiki](IDEAS/01%20-%20Star%20Wars%20Wiki.md)
-[02 - Password Generator Website](IDEAS/02%20-%20Password%20Generator%20Website.md)
+- [01 - Star Wars Wiki](IDEAS/01%20-%20Star%20Wars%20Wiki.md)
+- [02 - Password Generator Website](IDEAS/02%20-%20Password%20Generator%20Website.md)
