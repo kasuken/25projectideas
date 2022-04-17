@@ -21,3 +21,9 @@ You can use the projects in any order you like.
 They are not in any particular order, and each project has its own specific difficulties.
 
 Enjoy the ideas and keep coding!
+
+---
+
+# Ideas
+
+[01 - Star Wars Wiki](/IDEAS/01 - Star Wars Wiki.md )
