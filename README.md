@@ -26,4 +26,4 @@ Enjoy the ideas and keep coding!
 
 # Ideas
 
-[01 - Star Wars Wiki](/IDEAS/01 - Star Wars Wiki.md )
+[01 - Star Wars Wiki](/IDEAS/01 - Star Wars Wiki.md)
