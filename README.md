@@ -9,3 +9,10 @@ Many of the projects and good intentions fail because you don't have the ideas t
 
 This repo can help you to find a good example to learn something new for your next project at work.
 All projects are compatible to be best used with React, Angular or Blazor.
+
+# How it works
+Every project has a brief description at the beginning and after that there are three levels of difficulty of things to implement.
+You can use them as you think is best for you, but the right approach would be to start from the easiest to the most difficult.
+
+There is also a small todo that can help you to implement all the main features of the project.
+In addition, very often there are also third-party tools or services from which to take data without wasting time finding databases or useful data sources.
