@@ -2,7 +2,7 @@
 
 A wiki website with all information about Star Wars.
 
-## Goal
+## Goal 🚀
 A third party company provide to you the best REST API in the world and your mission is to create a community for the Star Wars fans.
 Call the endpoint and create the best website ever.
 
@@ -21,17 +21,17 @@ Store the data locally in the brower, without a registration for the users.
 
 ---
 
-## Todo
+## Todo ✅
 - [ ] Create a new app
 - [ ] Fetch all the characters
 - [ ] List all characters
 - [ ] Detail page for a character
 - [ ] Store the user's favorites in the browser
 
-## Tools
+## Tools 🦾
 - [Star Wars API](https://swapi.dev/)
 
-## Layout
+## Layout 
 
 ![image](https://user-images.githubusercontent.com/2757486/163726351-bef802b6-b6c5-4697-9ad2-dd3d5c03da59.png)
 
