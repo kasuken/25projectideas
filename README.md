@@ -16,3 +16,8 @@ You can use them as you think is best for you, but the right approach would be t
 
 There is also a small todo that can help you to implement all the main features of the project.
 In addition, very often there are also third-party tools or services from which to take data without wasting time finding databases or useful data sources.
+
+You can use the projects in any order you like.
+They are not in any particular order, and each project has its own specific difficulties.
+
+Enjoy the ideas and keep coding!
